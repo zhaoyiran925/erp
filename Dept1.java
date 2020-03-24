@@ -1,3 +1,4 @@
-public class Dept
+public class Dept1
 {
+	private Long deptno ;
 }
